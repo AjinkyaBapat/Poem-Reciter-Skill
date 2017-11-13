@@ -23,10 +23,12 @@ Skill currently supports **EN(US), EN(UK) & EN(IN)** languages.
 You can refer to the [index.js](/Code/index.js) file for the `AWS Lambda Function` code.
 
 
+
 # Links
 Skill can be found here: [Poem Reciter](https://www.amazon.com/dp/B0778TCNJT/)
 
 You can read more about how I built this skill here: [Hackster.io/Poem-Reciter]()
+
 
 
 # Support
@@ -37,6 +39,7 @@ Rate: Please `Rate` & `Review` the skill on `Alexa Skills Store`.
 You are more than welcome to `contribute` to this project!
 
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 
 
 # License
