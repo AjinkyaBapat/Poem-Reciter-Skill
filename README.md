@@ -11,6 +11,7 @@ Repository hosting code of  "Poem Reciter" Alexa Skill
 File me [**tickets**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill/issues) or star [**the repo**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill).
 
 <br>
+
 **Let Alexa recite a poem for you!**
 
 You can either listen to a Random poem or a poem of your favorite Poet from our large database of poets!
@@ -18,30 +19,36 @@ You can either listen to a Random poem or a poem of your favorite Poet from our 
 From 'William Shakespeare' to 'Oscar Wilde' and many others, this is a must-have skill to enlighten you and people around you at any time of the day.
 
 <br>
+
 Skill currently supports **EN(US), EN(UK) & EN(IN)** languages. 
 
 <br>
+
 # Skill Code
 
 You can refer to the [index.js](/Code/index.js) file for the `AWS Lambda Function` code.
 
 <br>
+
 # Links
 Skill can be found here: [Poem Reciter](https://www.amazon.com/dp/B0778TCNJT/)
 
 You can read more about how I built this skill here: [Hackster.io/Poem-Reciter]()
 
 <br>
+
 # Support
 Rate: Please `Rate` & `Review` the skill on `Alexa Skills Store`.
 
 <br>
+
 # Contributors: Give people credits
 You are more than welcome to `contribute` to this project!
 
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <br>
+
 # License
 - Code is licensed under [MIT License](./LICENSE).
 
