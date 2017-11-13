@@ -1,7 +1,7 @@
 # Poem-Reciter-Skill
 Repository hosting code of  "Poem Reciter" Alexa Skill 
 
-<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
+<a href="https://github.com/AjinkyaBapat?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -11,6 +11,8 @@ Repository hosting code of  "Poem Reciter" Alexa Skill
 File me [**tickets**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill/issues) or star [**the repo**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill).
 
 <br>
+
+# Introduction
 
 **Let Alexa recite a poem for you!**
 
@@ -42,7 +44,7 @@ Rate: Please `Rate` & `Review` the skill on `Alexa Skills Store`.
 
 <br>
 
-# Contributors: Give people credits
+# Contributors
 You are more than welcome to `contribute` to this project!
 
 - How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
