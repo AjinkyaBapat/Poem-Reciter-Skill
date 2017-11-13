@@ -34,7 +34,7 @@ You can refer to the [**index.js**](/Code/index.js) file for the `AWS Lambda Fun
 # Links
 Skill can be found here :arrow_right: [**Poem Reciter**](https://www.amazon.com/dp/B0778TCNJT/)
 
-You can read more about how I built this skill here :arrow_right: [**Hackster.io/Poem-Reciter-Skill**](https://www.hackster.io/ajinkya-bapat/poem-reciter-alexa-skill-155dc2)
+You can read more about how I built this skill here :arrow_right: [**Hackster.io**](https://www.hackster.io/ajinkya-bapat/poem-reciter-alexa-skill-155dc2)
 
 <br>
 
