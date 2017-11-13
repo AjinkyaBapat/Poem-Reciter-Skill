@@ -1,5 +1,5 @@
 # Poem-Reciter-Skill
-Repository hosting the code of `**Poem Reciter**` Alexa Skill. 
+Repository hosting the code of **`Poem Reciter`** Alexa Skill. 
 
 <a href="https://github.com/AjinkyaBapat?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
 
