@@ -1,5 +1,5 @@
 # Poem-Reciter-Skill
-Repository hosting the code of **`Poem Reciter`** Alexa Skill. 
+Repository hosting the code of :scroll: **`Poem Reciter`** :scroll: Alexa Skill. 
 
 <a href="https://github.com/AjinkyaBapat?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
 
@@ -8,7 +8,7 @@ Repository hosting the code of **`Poem Reciter`** Alexa Skill.
 [![LinkedIn](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/linkedin.png)](https://www.linkedin.com/in/ajinkyabapat) [![Twitter](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/twitter.png)](https://twitter.com/ajinkyab12) [![Github](https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png)](https://github.com/AjinkyaBapat)
 
 
-File me [**tickets**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill/issues) or star [**the repo**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill).
+File me [**tickets**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill/issues) or star :star: [**the repo**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill).
 
 
 # Introduction
@@ -21,36 +21,36 @@ From *William Shakespeare* to *Oscar Wilde* and *many others*, this is a must-ha
 
 <br>
 
-Skill currently supports **EN(US), EN(UK) & EN(IN)** languages. 
+Skill currently supports **EN(US) :us: , EN(UK) :us: & EN(IN)** languages. 
 
 <br>
 
 # Skill Code
 
-You can refer to the [index.js](/Code/index.js) file for the `AWS Lambda Function` code.
+You can refer to the [**index.js**](/Code/index.js) file for the `AWS Lambda Function` code.
 
 <br>
 
 # Links
-Skill can be found here: [Poem Reciter](https://www.amazon.com/dp/B0778TCNJT/)
+Skill can be found here :arrow_right: [**Poem Reciter**](https://www.amazon.com/dp/B0778TCNJT/)
 
-You can read more about how I built this skill here: [Hackster.io/Poem-Reciter]()
+You can read more about how I built this skill here :arrow_right: [**Hackster.io/Poem-Reciter**]()
 
 <br>
 
 # Support
-Rate: Please `Rate` & `Review` the skill on `Alexa Skills Store`.
+Please **`Rate`** & **`Review`** the skill on **`Alexa Skills Store`**. :star2::star2:
 
 <br>
 
 # Contributors
-You are more than welcome to `contribute` to this project!
+You are more than welcome to **`contribute`** to this project!
 
-- How to Contribute? Check [CONTRIBUTING.md](./CONTRIBUTING.md)
+- How to Contribute? Check :arrow_right: [**CONTRIBUTING.md**](./CONTRIBUTING.md)
 
 <br>
 
 # License
-- Code is licensed under [MIT License](./LICENSE).
+- Code is licensed under [**MIT License**](./LICENSE).
 
 <img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/magic.gif">
