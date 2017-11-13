@@ -1,5 +1,5 @@
 # Poem-Reciter-Skill
-Repository hosting code of  "Poem Reciter" Alexa Skill 
+Repository hosting the code of `**Poem Reciter**` Alexa Skill. 
 
 <a href="https://github.com/AjinkyaBapat?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
 
@@ -10,7 +10,6 @@ Repository hosting code of  "Poem Reciter" Alexa Skill
 
 File me [**tickets**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill/issues) or star [**the repo**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill).
 
-<br>
 
 # Introduction
 
@@ -18,7 +17,7 @@ File me [**tickets**](https://github.com/AjinkyaBapat/Poem-Reciter-Skill/issues)
 
 You can either listen to a Random poem or a poem of your favorite Poet from our large database of poets!
 
-From 'William Shakespeare' to 'Oscar Wilde' and many others, this is a must-have skill to enlighten you and people around you at any time of the day.
+From *William Shakespeare* to *Oscar Wilde* and *many others*, this is a must-have skill to enlighten you and people around you at any time of the day.
 
 <br>
 
